@@ -1,0 +1,8 @@
+
+.firstRow{
+  display: flex;
+}
+.secondRow{
+  display: flex;
+  margin: 30px;
+}

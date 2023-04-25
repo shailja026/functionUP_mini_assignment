@@ -1,0 +1,27 @@
+.item{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(242, 230, 230) ;
+    height: 550px;
+    width: 400px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 18px 20px;
+    margin-top: 50px;
+
+}
+.item img {
+    width: 200px;
+    height: 250px;
+}
+.item button{
+    background-color: orange;
+    width: 440px;
+    
+    padding: 6px;
+    border: none;
+    height: 50px;
+}
